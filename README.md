@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" width="600px"/>
-  <h4 align="center">Aelius Richardson's Github account</h4>
+  <img src="https://media.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" width="500px"/>
+  <h2 align="center">Aelius Richardson's Github account</h2>
 </p>
 
 <p align="center">
