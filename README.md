@@ -6,7 +6,7 @@
 <p align="center">
   <b> Platform Engineer & Certified Red Hat Architect and Instructor</b>
   <br/>
-  <i {font-size: 8px}>Ramen Lover, Arisu 40% Keyboard addict, Functional Programming dreamer</i>
+  <i {font-size: 8px}>Ramen Lover, Arisu 40% Keyboard addict, Functional Programming lover</i>
 </p>
 
 
