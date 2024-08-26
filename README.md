@@ -1,16 +1,15 @@
+### Hi there 👋
+
 <p align="center">
-  <img src="https://media.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" width="500px"/>
   <h3 align="center">Aelius Richardson's Github account</h3>
 </p>
 
 <p align="center">
-  <b> Platform Engineer & Certified Red Hat Architect and Instructor</b>
+  <b> Platform Engineer & Certified Red Hat Architect, Engineer and Instructor</b>
   <br/>
-  <i {font-size: 8px}>Ramen Lover, Arisu 40% Keyboard addict, Functional Programming lover</i>
+  <i {font-size: 8px}>Ramen Lover, Arisu 40% Keyboard addict, Functional Programming enthusiast, Shooting arrow on spare time</i>
 </p>
 
 
 ---
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aeliusrs&theme=dark)](https://git.io/streak-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeliusrs)](https://github.com/anuraghazra/github-readme-stats)
