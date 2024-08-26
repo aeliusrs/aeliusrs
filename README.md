@@ -9,9 +9,11 @@
   <br/>
   <i {font-size: 8px}>Ramen Lover, Arisu 40% Keyboard addict, Functional Programming enthusiast, Shooting arrows on spare time</i>
 
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeliusrs)](https://github.com/anuraghazra/github-readme-stats)
-
-    I'm on [Gitlab !!!](https://gitlab.com/asrs)
 </p>
 
 ---
+<div align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeliusrs)](https://github.com/anuraghazra/github-readme-stats)
+
+I'm on [Gitlab !!!](https://gitlab.com/asrs)
+</div>
