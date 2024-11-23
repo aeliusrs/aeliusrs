@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <b> Platform Engineer & Certified Red Hat Architect, Engineer and Instructor</b>
+  <b> Solution & Platform Engineer & Certified Red Hat Architect, Engineer and Instructor</b>
   <br/>
-  <i {font-size: 8px}>Ramen Lover, Arisu 40% Keyboard addict, Functional Programming enthusiast, Shooting arrows on spare time</i>
+  <i {font-size: 8px}>40% Keyboard addict, Functional and Golang programming enthusiast, shooting arrows  in the gold on spare time</i>
 
 </p>
 
